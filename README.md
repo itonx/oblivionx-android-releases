@@ -21,7 +21,7 @@ Oblivionx is `FREE` — no ads, no subscriptions, no upfront payments 🙅🏻�
 
 <div markdown="1" align="center">
   
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/itonx)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/itonx)
   
 </div>
 
