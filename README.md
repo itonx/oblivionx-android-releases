@@ -1,4 +1,9 @@
+<p align="center">
+	<img src="https://github.com/itonx/oblivionx-android-releases/blob/main/images/Oblivionx.svg" width="300"/>
+</p>
+
 # Oblivionx
+
 This repo contains all public releases of Oblivionx for Android.
 
 Visit the [Oblivionx landing page](https://itonx.dev/apps/oblivionx/) to download the Windows version or click on the next button:
