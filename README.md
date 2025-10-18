@@ -13,7 +13,7 @@ This repo contains all public releases of Oblivionx for Android.
 Visit the [Oblivionx landing page](https://itonx.dev/apps/oblivionx/) to download the Windows version or click on the next button:
 
 <p align="center">
-	<a href="https://apps.microsoft.com/detail/9PMFMMQ6L008?mode=direct">
+	<a href="https://apps.microsoft.com/detail/9PMFMMQ6L008?mode=direct" target="_blank">
 		<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
 	</a>
 </p>
