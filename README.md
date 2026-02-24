@@ -18,8 +18,6 @@ Visit the [Oblivionx landing page](https://itonx.dev/apps/oblivionx/) to downloa
 	</a>
 </p>
 
-Oblivionx is not open source software and there's no code in this repo.
-
 # Pricing
 
 Oblivionx is `FREE` — no ads, no subscriptions, no upfront payments 🙅🏻‍♂️. If you'd like to support the project, you can donate via my "Buy Me a Coffee" page:
